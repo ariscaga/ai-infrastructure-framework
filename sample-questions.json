@@ -1,0 +1,160 @@
+{
+  "assessment": "SCALE FACTOR™",
+  "version": "1.0",
+  "questions": [
+    {
+      "number": 1,
+      "dimension": "Systems Coherence",
+      "question": "How well do your AI tools integrate with core operations?",
+      "responses": [
+        {
+          "score": 1,
+          "label": "Siloed systems, no coordination",
+          "description": "Each tool operates independently with manual data transfers"
+        },
+        {
+          "score": 2,
+          "label": "Partial integration, gaps remain",
+          "description": "Some automation but significant manual work required"
+        },
+        {
+          "score": 3,
+          "label": "Fully integrated workflows and data",
+          "description": "Seamless data flow and automated processes"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "dimension": "Customer Experience Integrity",
+      "question": "When you scale quickly, what do customers experience?",
+      "responses": [
+        {
+          "score": 1,
+          "label": "They feel our internal chaos",
+          "description": "Delays, errors, and inconsistent service during growth"
+        },
+        {
+          "score": 2,
+          "label": "Some friction during growth spurts",
+          "description": "Occasional issues but generally manageable"
+        },
+        {
+          "score": 3,
+          "label": "Seamless experience maintained",
+          "description": "Growth is invisible to customer experience"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "dimension": "AI Strategy Alignment",
+      "question": "What drives your AI investments and deployment decisions?",
+      "responses": [
+        {
+          "score": 1,
+          "label": "Reactive purchases, no coordination",
+          "description": "Each department buys tools independently"
+        },
+        {
+          "score": 2,
+          "label": "Some planning but inconsistent execution",
+          "description": "Strategy exists but not always followed"
+        },
+        {
+          "score": 3,
+          "label": "Systematic evaluation with cross-functional alignment",
+          "description": "Clear process with ROI tracking and team buy-in"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "dimension": "Leadership Infrastructure",
+      "question": "Who owns AI delivery and how are teams structured?",
+      "responses": [
+        {
+          "score": 1,
+          "label": "Ad-hoc roles, everyone does everything",
+          "description": "No clear ownership or accountability"
+        },
+        {
+          "score": 2,
+          "label": "Some specialization but unclear boundaries",
+          "description": "Roles exist but overlap and gaps remain"
+        },
+        {
+          "score": 3,
+          "label": "Clear ownership with optimized team structure",
+          "description": "Defined roles, responsibilities, and workflows"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "dimension": "Enterprise Readiness",
+      "question": "If you landed a contract 5x larger tomorrow, what would happen?",
+      "responses": [
+        {
+          "score": 1,
+          "label": "Complete chaos, couldn't deliver",
+          "description": "Systems would break, team would burn out"
+        },
+        {
+          "score": 2,
+          "label": "Major strain but we'd survive",
+          "description": "Significant stress but could adapt over time"
+        },
+        {
+          "score": 3,
+          "label": "Minor adjustments, ready to scale",
+          "description": "Systems designed for growth, easy to expand"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "dimension": "Enterprise Readiness",
+      "question": "How confident are you that your pricing protects margins as AI costs scale?",
+      "responses": [
+        {
+          "score": 1,
+          "label": "We wing it, no cost tracking",
+          "description": "Pricing based on gut feel, hope for the best"
+        },
+        {
+          "score": 2,
+          "label": "Basic awareness but worried about scale",
+          "description": "Some tracking but uncertain as volume grows"
+        },
+        {
+          "score": 3,
+          "label": "Data-driven model that ensures profitability",
+          "description": "Clear unit economics that scale sustainably"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "dimension": "Enterprise Readiness",
+      "question": "How quickly do you recover from operational surprises?",
+      "responses": [
+        {
+          "score": 1,
+          "label": "Weeks of scrambling and firefighting",
+          "description": "Each surprise creates prolonged chaos"
+        },
+        {
+          "score": 2,
+          "label": "Days to get back on track",
+          "description": "Recovery processes exist but take time"
+        },
+        {
+          "score": 3,
+          "label": "Hours to adapt and continue",
+          "description": "Resilient systems with quick recovery protocols"
+        }
+      ]
+    }
+  ]
+}
