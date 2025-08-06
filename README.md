@@ -16,7 +16,7 @@ SCALE FACTOR™ is a diagnostic framework that evaluates organizations' ability 
 
 ## How It Works
 
-![SCALE FACTOR Flow Diagram]("./demo-logic-diagram.png")
+![SCALE FACTOR Flow Diagram](./demo-logic-diagram.png)
 
 The assessment flow:
 1. **User Type Selection** → Portfolio Manager or Founder/Executive
