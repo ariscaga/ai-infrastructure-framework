@@ -1,3 +1,11 @@
+© 2025 Nadis Intelligence. All Rights Reserved.
+
+SCALE Factor™ is a proprietary diagnostic methodology owned by Nadis Intelligence.  
+No part of this work may be copied, reproduced, distributed, or used for commercial purposes 
+without prior written permission from Nadis Intelligence.  
+
+Contact: hello@nadis.ai
+
 ## Basic Calculation
 
 ```javascript

@@ -54,5 +54,18 @@ Created by [Ariana Abramson](https://linkedin.com/in/arianaabramson) at [Nadis I
 Based on analysis of 200+ scaling organizations and their AI adoption patterns.
 
 ---
+## License
 
-**© 2025 Nadis Intelligence. SCALE FACTOR™ is a trademark of Nadis Intelligence.**
+The majority of this repository is licensed under the MIT License to encourage collaboration.  
+**Exception:** The SCALE Factor™ methodology and related proprietary frameworks are not open-licensed.  
+They remain © 2025 Nadis Intelligence. Use of SCALE Factor™ for commercial purposes requires permission.  
+
+---
+
+© 2025 Nadis Intelligence. All Rights Reserved.
+
+SCALE Factor™ is a proprietary diagnostic methodology owned by Nadis Intelligence.  
+No part of this work may be copied, reproduced, distributed, or used for commercial purposes 
+without prior written permission from Nadis Intelligence.  
+
+Contact: hello@nadis.ai
