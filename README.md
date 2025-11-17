@@ -1,71 +1,57 @@
 # SCALE FACTOR™ Assessment Methodology
 
-Technical showcase of the SCALE FACTOR™ scoring framework - a proprietary system for measuring AI infrastructure readiness across 7 critical dimensions.
+Technical showcase of the SCALE FACTOR™ scoring framework—a system for measuring an organization’s AI infrastructure readiness across seven critical dimensions.
 
-🔗 **[Take the Live Assessment](https://scalefactor.nadis.ai)**
+🔗 **[Take the Live Assessment](https://scale.nadis.ai)**
 
 ## What is SCALE FACTOR™?
 
-SCALE FACTOR™ is a diagnostic framework that evaluates organizations' ability to scale with AI infrastructure. It measures readiness across five key dimensions:
+SCALE FACTOR™ is a diagnostic framework that evaluates an organization's readiness to scale with modern AI infrastructure. It measures capability across the five core SCALE dimensions:
 
-- **S**ystems Coherence - Integration and alignment of AI tools
-- **C**ustomer Experience Integrity - Maintaining quality during growth
-- **A**I Strategy Alignment - Systematic approach to AI adoption
-- **L**eadership Infrastructure - Organizational structure for AI delivery
-- **E**nterprise Readiness - Financial and operational scaling capacity
+- **S**ystems Coherence — Alignment and integration of tools and data
+- **C**ustomer Experience Integrity — Maintaining quality as systems scale
+- **A**I Strategy Alignment — Prioritizing high-impact use cases and feasibility
+- **L**eadership Infrastructure — Systems, decision workflows, and governance
+- **E**nterprise Readiness — Operational and financial readiness for growth
+
+The framework also incorporates two extended dimensions covering integration maturity and workflow adaptability.
 
 ## How It Works
 
-![SCALE FACTOR Flow Diagram](./demo-logic-diagram.png)
-
-The assessment flow:
-1. **User Type Selection** → Portfolio Manager or Founder/Executive
-2. **7 Strategic Questions** → Covering all SCALE dimensions
-3. **Real-time Scoring** → Calculate SCALE FACTOR™ (1.0-3.0)
-4. **Zone Classification** → Break Risk / Unstable / Enterprise-Ready
-5. **Risk Assessment** → Calculate potential infrastructure failure costs
-6. **Action Plan** → Immediate and strategic recommendations
+1. **User Type Selection** → Portfolio Manager or Founder/Executive  
+2. **7 Strategic Questions** → Covering all readiness dimensions  
+3. **Real-time Scoring** → Produces a SCALE FACTOR™ from 1.0 to 3.0  
+4. **Zone Classification**  
+5. **Risk Assessment**  
+6. **Recommended Actions** → Immediate and strategic steps
 
 ## Scoring Zones
 
-| SCALE FACTOR™ | Zone | Risk Level | What It Means |
-|--------------|------|------------|---------------|
-| 1.0 - 1.4 | 🚨 Break Risk | Critical | Infrastructure gaps threaten scaling ability |
-| 1.5 - 2.4 | ⚠️ Unstable Scale | Moderate | Growth possible with optimization |
-| 2.5 - 3.0 | ✅ Enterprise-Ready | Low | Prepared for aggressive scaling |
+| SCALE FACTOR™ | Zone | Risk Level | Meaning |
+|--------------|------|------------|---------|
+| 1.0–1.4 | 🚨 Break Risk | High | Infrastructure gaps will impede scaling |
+| 1.5–2.4 | ⚠️ Unstable Scale | Moderate | Scaling possible with optimization |
+| 2.5–3.0 | ✅ Enterprise-Ready | Low | Strong foundation for AI-driven growth |
 
 ## Technical Implementation
 
-- **Sample Questions**: [sample-questions.json](./sample-questions.json) - See the 7 strategic questions
-- **Scoring Logic**: [scoring-logic.md](./scoring-logic.md) - Detailed algorithm and calculations
-- **Live Assessment**: [scalefactor.nadis.ai](https://scalefactor.nadis.ai) - Full interactive experience
+- **Sample Questions:** `sample-questions.json`  
+- **Scoring Logic:** `scoring-logic.md`  
+- **Architecture Diagram:** `demo-logic-diagram.png`
 
 ## Use Cases
 
-- **VCs** - Evaluate portfolio company infrastructure maturity
-- **Founders** - Identify scaling bottlenecks before they break
-- **Consultants** - Baseline client readiness for transformation
-- **Accelerators** - Screen applicants for program fit
+- **VCs** — Evaluate AI readiness in portfolio companies  
+- **Founders** — Identify bottlenecks before scaling  
+- **Consultants** — Baseline client infrastructure  
+- **Accelerators** — Screen applicant readiness  
 
 ## About
 
-Created by [Ariana Abramson](https://linkedin.com/in/arianaabramson) at [Nadis Intelligence](https://nadis.ai)
+Created by **Ariana Abramson** • [LinkedIn](https://linkedin.com/in/arianaabramson)
 
-Based on analysis of 200+ scaling organizations and their AI adoption patterns.
+Designed as an educational and diagnostic framework based on patterns from early-stage and growth-stage organizations.
 
----
-## License
+The implementation in this repository is provided for learning and non-commercial use.
 
-The majority of this repository is licensed under the MIT License to encourage collaboration.  
-**Exception:** The SCALE Factor™ methodology and related proprietary frameworks are not open-licensed.  
-They remain © 2025 Nadis Intelligence. Use of SCALE Factor™ for commercial purposes requires permission.  
-
----
-
-© 2025 Nadis Intelligence. All Rights Reserved.
-
-SCALE Factor™ is a proprietary diagnostic methodology owned by Nadis Intelligence.  
-No part of this work may be copied, reproduced, distributed, or used for commercial purposes 
-without prior written permission from Nadis Intelligence.  
-
-Contact: hello@nadis.ai
+© 2025 Nadis Intelligence.
