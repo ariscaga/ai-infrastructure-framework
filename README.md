@@ -45,9 +45,9 @@ The assessment produces a SCALE FACTOR™ score (1.0–3.0) through:
 
 ## Technical Implementation
 
-- **Sample Questions:** [`sample-questions.json`](./sample-questions.json)  
-- **Scoring Logic:** [`scoring-logic.md`](./scoring-logic.md)  
-- **Architecture Diagram:** [`demo-logic-diagram.png`](.demo-logic-diagram.png)  
+- **Sample Questions:** [`sample-questions.json`](sample-questions.json)  
+- **Scoring Logic:** [`scoring-logic.md`](scoring-logic.md)  
+- **Architecture Diagram:** [`demo-logic-diagram.png`](demo-logic-diagram.png)  
 
 This repository provides a clean, minimal technical demonstration of the scoring logic and assessment flow.
 
